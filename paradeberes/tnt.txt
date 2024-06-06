@@ -1,0 +1,7 @@
+
+git init
+git add . 
+git commit -m "tc semana 8 "
+git branch -M main
+git remote add origin https://github.com/Sebscuest/tareas-metodologias.git
+git push -u origin main		
