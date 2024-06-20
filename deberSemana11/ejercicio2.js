@@ -1,3 +1,4 @@
+'use strict'
 function numeros(nums) {
     for (let i = 0; i < nums.length; i++) {
         let row = '';
