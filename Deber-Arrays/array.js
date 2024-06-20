@@ -1,6 +1,6 @@
 'use strict';
 //Escribir una función que reciba un array de strings y muestre cada elemento con su posición.
-function elemPosicion(array) {
+function elemPosicion(array) { 
     for (let i = 0; i < array.length; i++) {
         alert(`Posición ${i}: ${array[i]}`);
     }
