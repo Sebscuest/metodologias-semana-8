@@ -27,3 +27,4 @@ let subjectsExist = subjectsArr.includes('Piensa');
 alert(subjectsExist);
 
 
+
